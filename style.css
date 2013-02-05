@@ -10,7 +10,7 @@
 	padding: 10px;
 }
 
-#header h1 { margin: 0; }
+#header h1 { margin: 0;}
 
 #navigation
 {
@@ -62,9 +62,10 @@
 
 #edito h2
 {
-	color: #000;
+	color: #A0522D;
 	font-size: 160%;
 	margin: 0 0 .5em;
+	text-align: center;
 }
 
 #news
@@ -83,6 +84,12 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+}
+
+#news h2 
+{
+	color: #A0522D;
+	text-align: center;
 }
 
 #footer
