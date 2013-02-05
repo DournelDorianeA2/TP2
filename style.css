@@ -1,13 +1,13 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #DEB887;
 }
 
 #header
 {
-	background: #ccc;
-	padding: 20px;
+	background: #A0522D;
+	padding: 10px;
 }
 
 #header h1 { margin: 0; }
@@ -36,12 +36,12 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #A0522D;
 	text-decoration: none;
-	border-right: 1px solid #fff;
+	border-right: 1px solid #BC8F8F;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: #F5DEB3; }
 
 #edito
 {
@@ -88,8 +88,8 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: #A0522D;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
